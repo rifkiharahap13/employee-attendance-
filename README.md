@@ -1,5 +1,5 @@
 # tugas-kelompok-2
-proyek aplikasi web sistem absensi karyawan sederhana.<b>
+proyek aplikasi web sistem absensi karyawan sederhana.<b> <br/>
 Nama Anggota Kelompok:
 Abdul Aziis - 19210929
 Filemon Catur Pamungkas - 19211282
